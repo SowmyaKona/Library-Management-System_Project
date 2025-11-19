@@ -1,0 +1,18 @@
+[
+    {
+        "id": "Tb2a0cb",
+        "username": "Ganesh",
+        "password": "gani",
+        "name": "Ganesh",
+        "dept": "CSE",
+        "subject": "Python"
+    },
+    {
+        "id": "T1755ac",
+        "username": "Pavi",
+        "password": "pavi",
+        "name": "Pavitra",
+        "dept": "CSE",
+        "subject": "DBMS"
+    }
+]

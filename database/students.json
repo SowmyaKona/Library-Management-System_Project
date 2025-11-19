@@ -1,0 +1,20 @@
+[
+    {
+        "id": "Sb08927",
+        "username": "Abhiram",
+        "password": "abhi",
+        "name": "Abhiram",
+        "dept": "CSE",
+        "year": "1st",
+        "sem": "Sem 1"
+    },
+    {
+        "id": "S3da46b",
+        "username": "Sowmya",
+        "password": "sow",
+        "name": "sow",
+        "dept": "CSE",
+        "year": "4th",
+        "sem": "Sem 1"
+    }
+]

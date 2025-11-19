@@ -1,0 +1,29 @@
+[
+    {
+        "user_id": "S3da46b",
+        "user_type": "student",
+        "book_title": "Python Programming",
+        "borrow_date": "2025-11-19",
+        "due_date": "2025-11-26",
+        "return_date": "2025-11-19",
+        "fine": 0
+    },
+    {
+        "user_id": "S3da46b",
+        "user_type": "student",
+        "book_title": "Operating systems",
+        "borrow_date": "2025-11-19",
+        "due_date": "2025-11-26",
+        "return_date": null,
+        "fine": 0
+    },
+    {
+        "user_id": "S3da46b",
+        "user_type": "student",
+        "book_title": "Python Programming",
+        "borrow_date": "2025-11-19",
+        "due_date": "2025-11-26",
+        "return_date": null,
+        "fine": 0
+    }
+]

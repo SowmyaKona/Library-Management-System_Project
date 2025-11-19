@@ -1,0 +1,16 @@
+[
+    {
+        "id": "B8d6a6b",
+        "title": "Python Programming",
+        "author": "galilo",
+        "total_copies": 10,
+        "available_copies": 9
+    },
+    {
+        "id": "Bd86844",
+        "title": "Operating systems",
+        "author": "oliver",
+        "total_copies": 15,
+        "available_copies": 14
+    }
+]
