@@ -1,14 +1,6 @@
 # LMS Project
 A modular Python LMS (Library Management System) sample project.
 
-## To Run
-- open terminal 
-python main.py
-
-Default admin login: 
-username = admin 
-password = admin
-
 📘 Overview
 
 This LMS is designed with a modular Python architecture that organizes all library-related operations into dedicated components.
@@ -111,3 +103,11 @@ Borrow successful!
 Choose: 3
 Book Name to return: Python Programming
 Returned late. Fine: ₹15
+
+## To Run
+- open terminal 
+python main.py
+
+Default admin login: 
+username = admin 
+password = admin
